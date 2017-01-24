@@ -1,0 +1,6 @@
+c:\users\bartuszak\documents\visual studio 2015\Projects\Nowy_projekt\Nowy_projekt\bin\Debug\Nowy_projekt.exe.config
+c:\users\bartuszak\documents\visual studio 2015\Projects\Nowy_projekt\Nowy_projekt\bin\Debug\Nowy_projekt.exe
+c:\users\bartuszak\documents\visual studio 2015\Projects\Nowy_projekt\Nowy_projekt\bin\Debug\Nowy_projekt.pdb
+c:\users\bartuszak\documents\visual studio 2015\Projects\Nowy_projekt\Nowy_projekt\obj\Debug\Nowy_projekt.csprojResolveAssemblyReference.cache
+c:\users\bartuszak\documents\visual studio 2015\Projects\Nowy_projekt\Nowy_projekt\obj\Debug\Nowy_projekt.exe
+c:\users\bartuszak\documents\visual studio 2015\Projects\Nowy_projekt\Nowy_projekt\obj\Debug\Nowy_projekt.pdb
